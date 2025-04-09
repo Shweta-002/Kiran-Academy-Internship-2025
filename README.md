@@ -1,5 +1,4 @@
-Encapsulation: 
-Making variables as a private and accessing them using getter and setter methods only.
+This file contains encapsulation examples in which making variables as a private and accessing them using getter and setter methods only.
 
 Examples uploaded:
 
