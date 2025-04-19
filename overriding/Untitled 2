@@ -1,0 +1,39 @@
+6.Create a superclass Animal with a method sound() and override it in:
+
+Subclass Dog → prints "Bark"
+
+Subclass Cat → prints "Meow"
+
+
+7.Create a class Vehicle with method move() and override it in:
+
+Car class → "Car is moving"
+
+Bike class → "Bike is moving"
+
+
+
+8.Create a class Shape with method draw() and override it in:
+
+Circle class
+
+Rectangle class
+
+Triangle class
+
+
+
+9.Create a base class Employee with method calculateSalary() and override it in:
+
+PermanentEmployee class
+
+ContractEmployee class
+
+
+
+10.Show runtime polymorphism by calling overridden methods using superclass reference for:
+
+Bird class with method fly()
+
+Subclasses Sparrow, Eagle
+
