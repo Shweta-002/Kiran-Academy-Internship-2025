@@ -1,0 +1,43 @@
+1.Overload a method area() to calculate:
+
+Area of a circle
+
+Area of a rectangle
+
+Area of a square
+
+
+
+2.Create a Calculator class with overloaded add() methods:
+
+add(int, int)
+
+add(double, double)
+
+add(int, int, int)
+
+
+3.Overload a method named display() to:
+
+Display a string
+
+Display an integer
+
+Display a string and an integer together
+
+
+4.Write a program to overload a constructor in a Student class:
+
+Constructor 1: takes no arguments
+
+Constructor 2: takes roll number
+
+Constructor 3: takes roll number and name
+
+
+
+5.Create a BankAccount class with overloaded deposit() methods:
+
+deposit(int amount)
+
+deposit(int amount, String mode) (like "cash", "cheque")
