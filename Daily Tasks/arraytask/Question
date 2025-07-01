@@ -1,0 +1,6 @@
+ Swapping the array elements:
+ Swapping only pair of elements(index 0 with 1, 2 with 3, 4 with 5, etc.)
+ 
+Input =  {34,65,12,8,9,24}
+Output = {65,34,8,12,24,9}
+
